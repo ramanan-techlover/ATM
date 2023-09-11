@@ -1,6 +1,8 @@
 # ATM
 
-please use the following card numbers and pins!!!
+download the entire folder and then run It's a kind request.
+
+also please use the following card numbers and pins!!!
 
 1. Card: 4532611266538787   --> pin: 1234
 2. Card: 4532027608511534   --> pin: 4321
